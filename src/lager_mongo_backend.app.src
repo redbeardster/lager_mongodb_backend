@@ -1,0 +1,5 @@
+{application, lager_mongo_backend, [{description, "MongoDB backend for Lager"},
+                                    {vsn, "0.2.3.1"},
+                                    {modules, []},
+                                    {applications, [kernel, stdlib]},
+                                    {registered, []}]}.
